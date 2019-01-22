@@ -1,0 +1,83 @@
+{
+  "orderDetailinfo":
+  {
+    "orderMenu": [
+      {
+        "orderImg":  "../../../static/images/o1.jpg",
+        "orderWord":"待付款"
+      },
+      {
+        "orderImg":  "../../../static/images/o2.jpg",
+        "orderWord":"待分享"
+      },
+      {
+        "orderImg":  "../../../static/images/o3.jpg",
+        "orderWord":"待发货"
+      },
+      {
+        "orderImg":  "../../../static/images/o4.jpg",
+        "orderWord":"待收货"
+      },
+      {
+        "orderImg":  "../../../static/images/o5.jpg",
+        "orderWord":"待评价"
+      },
+      {
+        "orderImg":  "../../../static/images/o6.jpg",
+        "orderWord":"优惠券"
+      },
+      {
+        "orderImg":  "../../../static/images/o7.jpg",
+        "orderWord":"商品收藏"
+      },
+      {
+        "orderImg":  "../../../static/images/o8.jpg",
+        "orderWord":"店铺收藏"
+      },
+      {
+        "orderImg":  "../../../static/images/o9.jpg",
+        "orderWord":"历史浏览"
+      },
+      {
+        "orderImg":  "../../../static/images/o10.jpg",
+        "orderWord":"退款售后"
+      },
+      {
+        "orderImg":  "../../../static/images/o11.jpg",
+        "orderWord":"多多果园"
+      },
+      {
+        "orderImg":  "../../../static/images/o12.jpg",
+        "orderWord":"砍价免费拿"
+      },
+      {
+        "orderImg":  "../../../static/images/o13.jpg",
+        "orderWord":"大奖必中"
+      },
+      {
+        "orderImg":  "../../../static/images/o14.jpg",
+        "orderWord":"边逛边转"
+      },
+      {
+        "orderImg":  "../../../static/images/o15.jpg",
+        "orderWord":"天天领现金"
+      },
+      {
+        "orderImg":  "../../../static/images/o16.jpg",
+        "orderWord":"收货地址"
+      },
+      {
+        "orderImg":  "../../../static/images/o17.jpg",
+        "orderWord":"我的评价"
+      },
+      {
+        "orderImg":  "../../../static/images/o18.jpg",
+        "orderWord":"官方客服"
+      },
+      {
+        "orderImg":  "../../../static/images/o19.jpg",
+        "orderWord":"设置"
+      }
+    ]
+  }
+}

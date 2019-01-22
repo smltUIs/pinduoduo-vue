@@ -1,0 +1,63 @@
+{
+  "productDetailFocus": [
+    { "SwiperImg": "../../../static/images/xq1.jpg" },
+    { "SwiperImg": "../../../static/images/xq2.jpg" },
+    { "SwiperImg": "../../../static/images/xq3.jpg" },
+    { "SwiperImg": "../../../static/images/xq4.jpg" },
+    { "SwiperImg": "../../../static/images/xq5.jpg" }
+  ],
+  "productDetailPriceInfo":{
+    "priceReal": "144.9",
+    "oriPrice": "258",
+    "pined": "329",
+    "productName": "LRUD休闲裤女2018秋冬新款韩版高腰学生格子阔腿裤宽松背带裤长裤",
+    "express": "全场包邮 7天退还 48小时发货"
+  },
+  "productDetailPininfo":
+    {
+      "pinNum": "56",
+      "pinSum": [
+        {
+          "pinPersonImg":  "../../../static/images/p1.jpg",
+          "pinPersonName":"易米五",
+          "pinSuccessNum": "1",
+          "pinSuccessTime": "剩余7：48：36.1"
+        },
+        {
+          "pinPersonImg":  "../../../static/images/p2.jpg",
+          "pinPersonName":"天天",
+          "pinSuccessNum": "1",
+          "pinSuccessTime": "剩余9：48：36.1"
+        }
+      ]
+    }
+  ,
+  "productDetailRemark1":[
+    { "pinPersonImg":"../../../static/images/p1.jpg",
+      "pinPersonName":"情悸",
+      "pinPersonRemark":"啊哈哈哈，真的好好啊，ertyuityhdfgh，，，，，，，"
+    },
+    { "pinPersonImg":"../../../static/images/p2.jpg",
+      "pinPersonName":"情悸",
+      "pinPersonRemark":"啊哈哈哈，你打不到我吧，啦啦啦啦，3456789，，，，，，，"
+    }
+  ],
+  "productDetailContentProDet":[
+    { "productDetailImg": "../../../static/images/prodet1.jpg" },
+    { "productDetailImg": "../../../static/images/prodet2.jpg" },
+    { "productDetailImg": "../../../static/images/prodet3.jpg" },
+    { "productDetailImg": "../../../static/images/prodet4.jpg" },
+    { "productDetailImg": "../../../static/images/prodet5.jpg" },
+    { "productDetailImg": "../../../static/images/prodet6.jpg" },
+    { "productDetailImg": "../../../static/images/prodet7.jpg" },
+    { "productDetailImg": "../../../static/images/prodet8.jpg" },
+    { "productDetailImg": "../../../static/images/prodet9.jpg" },
+    { "productDetailImg": "../../../static/images/prodet10.jpg" },
+    { "productDetailImg": "../../../static/images/prodet11.jpg" },
+    { "productDetailImg": "../../../static/images/prodet12.jpg" },
+    { "productDetailImg": "../../../static/images/prodet13.jpg" },
+    { "productDetailImg": "../../../static/images/prodet14.jpg" },
+    { "productDetailImg": "../../../static/images/prodet15.jpg" },
+    { "productDetailImg": "../../../static/images/prodet16.jpg" }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "productDetailPininfo":[
+    {
+      "pinPersonImg":  "../../../static/images/p1.jpg",
+      "pinPersonName":"易米五",
+      "pinSuccessNum": "1",
+      "pinSuccessTime": "剩余7：48：36.1"
+    },
+    {
+      "pinPersonImg":  "../../../static/images/p1.jpg",
+      "pinPersonName":"天天",
+      "pinSuccessNum": "1",
+      "pinSuccessTime": "剩余9：48：36.1"
+    }
+  ],
+  "productDetailRemark1":[
+    { "pinPersonImg":"../../../static/images/p1.jpg",
+      "pinPersonName":"情悸",
+      "pinPersonRemark":"啊哈哈哈，真的好好啊，ertyuityhdfgh，，，，，，，"
+    },
+    { "pinPersonImg":"../../../static/images/p2.jpg",
+      "pinPersonName":"情悸",
+      "pinPersonRemark":"啊哈哈哈，你打不到我吧，啦啦啦啦，，，，，，，，"
+    }
+  ]
+}
